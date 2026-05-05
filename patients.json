@@ -19,16 +19,6 @@
         "bmi": 27.76,
         "verdict": "Overweight"
     },
-    "P003": {
-        "name": "Sneha Kulkarni",
-        "city": "Pune",
-        "age": 22,
-        "gender": "female",
-        "height": 1.6,
-        "weight": 45,
-        "bmi": 17.58,
-        "verdict": "Underweight"
-    },
     "P004": {
         "name": "Arjun Verma",
         "city": "Mumbai",
@@ -50,7 +40,7 @@
         "verdict": "Obese"
     },
     "POO6": {
-        "name": "Malik saab",
+        "name": "Hasan",
         "age": 22,
         "gender": "Male",
         "height": 5.11,
